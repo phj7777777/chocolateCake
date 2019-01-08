@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/coolStart.unity
+    guid: bb8921fae3c854749862f519e7f718c8
+  - enabled: 1
+    path: Assets/Scenes/storyScene.unity
+    guid: 7bbe066fd1553234c81819aff093725a
+  - enabled: 1
+    path: Assets/Scenes/introScene.unity
+    guid: 9f1c030d2911cd44ebd027396c86896d
+  - enabled: 1
+    path: Assets/Scenes/gameFridge.unity
+    guid: 4c266df5e8a0e6944ba55e0fd8497ed0
+  - enabled: 1
+    path: Assets/Scenes/fridgeScene.unity
+    guid: 0bc26f443cb1c9747b3c1fc8edd34400
+  - enabled: 1
+    path: Assets/Scenes/gameCupboard.unity
+    guid: 20cf24f80da1d4f47aa4456874a3ed97
+  - enabled: 1
+    path: Assets/Scenes/cupboardScene.unity
+    guid: a4a856caec34ee74eaff589bc5ecba2b
+  - enabled: 1
+    path: Assets/Scenes/gameWeight.unity
+    guid: 140d4d0bd604e3b4abf0fad61bec1bdb
+  - enabled: 1
+    path: Assets/Scenes/weightScene.unity
+    guid: c27eb2be44d5970459d8b9b08849ac43
+  - enabled: 1
+    path: Assets/Scenes/gameOven.unity
+    guid: 24af796820f78264e945948f81d7ad67
+  - enabled: 1
+    path: Assets/Scenes/ovenScene.unity
+    guid: cb66d968c915d0a4186372b219abb634
+  - enabled: 1
+    path: Assets/Scenes/gameStove.unity
+    guid: 990372e05a84ca1488f784f1cf140727
+  - enabled: 1
+    path: Assets/Scenes/stoveScene.unity
+    guid: e931d929aaebeb941b63af693d3ace99
+  - enabled: 1
+    path: Assets/Scenes/gameEgg.unity
+    guid: 81d6484f4b5cca245902a67f9d7d6be8
+  - enabled: 1
+    path: Assets/Scenes/mixScene.unity
+    guid: 3ec232a440b3e40449bb37abd0a6e594
+  - enabled: 1
+    path: Assets/Scenes/bowlScene.unity
+    guid: 7769c6b739c49bf4887240e2d37f2176
+  - enabled: 1
+    path: Assets/Scenes/pourScene.unity
+    guid: 6b0dcbf5a7606cd48b8129f808a86749
+  - enabled: 1
+    path: Assets/Scenes/gameBake.unity
+    guid: f1af780f292ea0e4fab76466de29c0c5
+  - enabled: 1
+    path: Assets/Scenes/cookScene.unity
+    guid: e34ab5e31ffa15b43b46267caa2576c1
+  - enabled: 1
+    path: Assets/Scenes/endScene.unity
+    guid: 004214410a23470448b4155b6691b4e8
+  - enabled: 1
+    path: Assets/Scenes/storyEndScene.unity
+    guid: b9345f3d7fbd1404f8fc6758878fe142
+  - enabled: 1
+    path: Assets/Scenes/creditScene.unity
+    guid: ee72419131b8d104c82330ab08d8729c
+  - enabled: 1
+    path: Assets/Scenes/quizScene.unity
+    guid: 4abc7fd7c4b052346906117ed5b497f7
+  - enabled: 1
+    path: Assets/Scenes/recipeScene.unity
+    guid: bd97a1c6461000b4684ed306af1cac74
+  - enabled: 1
+    path: Assets/Scenes/startScene.unity
+    guid: 8ec199ff53933324dbadc082dd9f2d00
+  m_configObjects: {}
