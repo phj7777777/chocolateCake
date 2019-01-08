@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: a750450ce880d9147a07447868e326c8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: microwave0
+    100004: microwave1
+    100006: microwave2
+    100008: microwave3
+    100010: microwave4
+    100012: microwave5
+    100014: microwave6
+    100016: microwave_
+    400000: //RootNode
+    400002: microwave0
+    400004: microwave1
+    400006: microwave2
+    400008: microwave3
+    400010: microwave4
+    400012: microwave5
+    400014: microwave6
+    400016: microwave_
+    2100000: _________
+    2100002: Croco ,Black Ski
+    2100004: Croco ,Black 1
+    2100006: glassdark
+    2100008: 03 - Default
+    2100010: 04 - Default
+    2100012: 10 - Default
+    2100014: 11 - Default
+    2300000: microwave0
+    2300002: microwave1
+    2300004: microwave2
+    2300006: microwave3
+    2300008: microwave4
+    2300010: microwave5
+    2300012: microwave6
+    2300014: microwave_
+    3300000: microwave0
+    3300002: microwave1
+    3300004: microwave2
+    3300006: microwave3
+    3300008: microwave4
+    3300010: microwave5
+    3300012: microwave6
+    3300014: microwave_
+    4300000: microwave_
+    4300002: microwave0
+    4300004: microwave1
+    4300006: microwave2
+    4300008: microwave3
+    4300010: microwave4
+    4300012: microwave5
+    4300014: microwave6
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: fccae7c35368ad040b1d264f8850eb14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 04 - Default
+    second: {fileID: 2100000, guid: 6b4306f81d3f3c24bb35e26a1e7572c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 10 - Default
+    second: {fileID: 2100000, guid: 236ff44ae99dcb244b0bc1c0ee722f64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 11 - Default
+    second: {fileID: 2100000, guid: 14d4e63cfe02b0e40b45e5d058d485c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Croco ,Black 1
+    second: {fileID: 2100000, guid: 3954cc3974c1b8f42b419357555d73c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Croco ,Black Ski
+    second: {fileID: 2100000, guid: 0805c9c2bb4a25e4aa95b453af8af74c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _________
+    second: {fileID: 2100000, guid: 0c40aed14e97b2a40b700b5a78549a25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glassdark
+    second: {fileID: 2100000, guid: 768e9346dd6e2dc4087c5cdb2970dd85, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
